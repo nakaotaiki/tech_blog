@@ -1,5 +1,6 @@
 !.gitkeep
 
 terraform/ap-northeast-1/tech_blog/.terraform/*
+terraform/ap-northeast-1/tech_blog/.terraform.lock.hcl
 terraform/ap-northeast-1/tech_blog/id_rsa
 terraform/ap-northeast-1/tech_blog/secret.tf
